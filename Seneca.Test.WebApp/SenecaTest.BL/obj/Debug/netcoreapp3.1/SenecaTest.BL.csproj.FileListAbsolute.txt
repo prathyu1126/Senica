@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\bin\Debug\netcoreapp3.1\SenecaTest.BL.deps.json
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\bin\Debug\netcoreapp3.1\SenecaTest.BL.dll
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\bin\Debug\netcoreapp3.1\SenecaTest.BL.pdb
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.AssemblyInfo.cs
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.dll
+C:\Users\hp\source\repos\Seneca.Test.WebApp\SenecaTest.BL\obj\Debug\netcoreapp3.1\SenecaTest.BL.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seneca.Test.WebApp", "Seneca.Test.WebApp\Seneca.Test.WebApp.csproj", "{B49B862F-D29C-4DFD-A5F2-9F4C0084172C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenecaTest.BL", "SenecaTest.BL\SenecaTest.BL.csproj", "{D463DA4C-E528-45BA-AA4E-0EE7653786B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B49B862F-D29C-4DFD-A5F2-9F4C0084172C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49B862F-D29C-4DFD-A5F2-9F4C0084172C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49B862F-D29C-4DFD-A5F2-9F4C0084172C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49B862F-D29C-4DFD-A5F2-9F4C0084172C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D463DA4C-E528-45BA-AA4E-0EE7653786B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D463DA4C-E528-45BA-AA4E-0EE7653786B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D463DA4C-E528-45BA-AA4E-0EE7653786B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D463DA4C-E528-45BA-AA4E-0EE7653786B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC78AF0-CEC8-4447-8EA1-E466B2018A3E}
+	EndGlobalSection
+EndGlobal

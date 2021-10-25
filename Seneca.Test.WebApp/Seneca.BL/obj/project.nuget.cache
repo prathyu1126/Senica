@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VSS9/IryquvIEs6aQxIEzLhdBQhX+EqHj7FKw+1QiquisuSfgHd+NzISWN91ERI4Y9aU5xiMDLz4hAD1lidxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Seneca.Test.WebApp\\Seneca.BL\\Seneca.BL.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

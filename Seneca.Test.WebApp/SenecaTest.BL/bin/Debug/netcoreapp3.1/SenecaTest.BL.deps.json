@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SenecaTest.BL/1.0.0": {
+        "runtime": {
+          "SenecaTest.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SenecaTest.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
